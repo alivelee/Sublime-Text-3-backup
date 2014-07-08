@@ -1,0 +1,38 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"Color Highlighter",
+		"Color Scheme - Creamy",
+		"Color Scheme - Frontend Delight",
+		"Color Scheme - Sleeplessmind",
+		"ColorPicker",
+		"CSS Unminifier",
+		"Dayle Rees Color Schemes",
+		"Devastate",
+		"DocBlockr",
+		"Emmet",
+		"Flatron",
+		"Frontend Light Color Scheme",
+		"INI",
+		"Minifier",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - amCoder",
+		"Theme - Farzher",
+		"Theme - Glacier",
+		"Theme - itg.flat",
+		"Theme - Numix",
+		"Theme - Spacegray",
+		"Themr",
+		"Tomorrow Color Schemes",
+		"Wombat Theme"
+	]
+}

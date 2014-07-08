@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+html:5>div.container>(nav.navbar.navbar-inverse>div.navbar-header>a.navbar-brand{Crazy Fast}+ul.nav.navbar-nav>li*2>a.menu-${Menu Item $})+(div.jumbotron.text-center>h1{Crazy Fast HTML}+p+a#go-button.btn.btn-danger{Learn More})+(div.row.text-center>(div.col-sm-4>div.info-box>span.glyphicon.glyphicon-fire+h2{Lions}+p)+(div.col-sm-8>div.info-box>span.glyphicon.glyphicon-send+h2{Emmmet}+p))
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>htmlemmmet</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

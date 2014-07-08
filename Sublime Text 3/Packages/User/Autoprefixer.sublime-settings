@@ -1,0 +1,6 @@
+{
+    "browsers": ["last 2 versions"]
+}
+[
+    { "keys": ["alt+super+p"], "command": "autoprefixer" }
+]

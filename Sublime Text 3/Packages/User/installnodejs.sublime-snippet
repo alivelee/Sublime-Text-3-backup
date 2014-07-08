@@ -1,0 +1,17 @@
+<snippet>
+  <content>
+sudo apt-get update && sudo apt-get install git-core curl build-essential openssl libssl-dev
+git clone https://github.com/joyent/node.git
+cd node
+git checkout v0.9.5 (or the version you want to build)
+./configure --openssl-libpath=/usr/lib/ssl
+make
+sudo make install
+node -v
+npm -v
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>install nodejs</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
