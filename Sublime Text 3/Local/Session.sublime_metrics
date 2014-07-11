@@ -1,3 +1,46 @@
 {
-	"time": 1404293221
+	"licensed": true,
+	"packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"Color Highlighter",
+		"Color Scheme - Creamy",
+		"Color Scheme - Frontend Delight",
+		"Color Scheme - Sleeplessmind",
+		"ColorPicker",
+		"CSS Unminifier",
+		"Dayle Rees Color Schemes",
+		"Devastate",
+		"DocBlockr",
+		"Emmet",
+		"Evernote",
+		"Flatron",
+		"Frontend Light Color Scheme",
+		"INI",
+		"JsFormat",
+		"Minifier",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"Theme - amCoder",
+		"Theme - Farzher",
+		"Theme - Glacier",
+		"Theme - itg.flat",
+		"Theme - Numix",
+		"Theme - Spacegray",
+		"Themr",
+		"Tomorrow Color Schemes",
+		"Wombat Theme"
+	],
+	"startup_sec": 0.396892,
+	"syntax":
+	{
+		"JSON": 5
+	},
+	"time": 1404993813
 }
