@@ -1,6 +1,9 @@
 {
 	"folder_history":
 	[
+		"/C/ghost-0.4.2/content/themes/Peeves",
+		"/C/ghost-0.4.2/content/themes/The-Shell",
+		"/C/Users/Reddy/Documents/GitHub/peeves-install-configuration",
 		"/C/HTMLTipsTricks-SF",
 		"/C/ghost-0.4.2/content/themes",
 		"/C/Users/Reddy/Documents/GitHub",
@@ -15,264 +18,12 @@
 		"/C/index"
 	],
 	"last_version": 3059,
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_height": 667.0,
 		"new_window_settings":
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"co",
-						"color"
-					],
-					[
-						"src",
-						"src	Attr"
-					],
-					[
-						"mar",
-						"margin-top"
-					],
-					[
-						"in",
-						"inline"
-					],
-					[
-						"fon",
-						"font-size"
-					],
-					[
-						"i",
-						"italic"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"margin-",
-						"margin-right"
-					],
-					[
-						"margin",
-						"margin-bottom"
-					],
-					[
-						"font-v",
-						"font-variant:   (property)"
-					],
-					[
-						"text",
-						"text-transform"
-					],
-					[
-						"tex",
-						"text-align"
-					],
-					[
-						"no",
-						"no-repeat  (value)"
-					]
-				]
-			},
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 368.0,
-				"selected_items":
-				[
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"min",
-						"Minify Javascript"
-					],
-					[
-						"INSTALL",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"",
-						"About"
-					],
-					[
-						"git",
-						"Set Syntax: Git Commit Message"
-					],
-					[
-						"Snippet: ",
-						"Snippet: bs3-alert"
-					],
-					[
-						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"package",
-						"Package Control: Install Package"
-					],
-					[
-						"pac",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 496.0
-			},
-			"console":
-			{
-				"height": 223.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/迅雷下载/TeleportUltra_1.68_PortableSoft/TeleportUltraPortable/TeleportUltraPortable.ini",
-				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/C/Users/Reddy/Documents/GitHub/android-open-project/English Version/README.md",
-				"/C/index/style.css",
-				"/C/index/JSFundamentals-sf/Lesson01/Lesson01/index.html",
-				"/C/index/index.html",
-				"/C/index/JSFundamentals-sf/Lesson03/Lesson03/script.js",
-				"/C/Users/Reddy/Documents/Rainmeter/Skins/ikonko2/Weather/Weather-C.ini",
-				"/D/index/index.html",
-				"/D/index/style.css",
-				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
-				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/C/Users/Reddy/Downloads/exPrimer13's Hardrive Recovery/exPrimer13's Hardrive Recovery/Key.txt",
-				"/C/Users/Reddy/Downloads/exPrimer13's Hardrive Recovery/exPrimer13's Hardrive Recovery/READ ME.txt",
-				"/E/FF/InstagramDownloader/bergdorfs.txt",
-				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Reddy/AppData/Roaming/npm/node_modules/shadowsocks/config.json"
-			],
-			"find":
-			{
-				"height": 29.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"abs_med",
-					"sidebar_",
-					"line_padd",
-					"to",
-					"alignemnt",
-					"emmet",
-					"Emmet",
-					"emmet",
-					"Emmet",
-					"and",
-					"and ",
-					"read",
-					"key",
-					"Package Control Messages\n========================\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  P read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n   key\n  ==========================\n   HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n\n\nWombat Theme:\n------------\n\n  Please restart Sublime Text!\n  \n  But before that, append following to your User Settings (for blue theme):\n  \n      \"theme\": \"Wombat.sublime-theme\",\n      \"wombat_color_blue\": true,\n      \"wombat_dirty_bottom_bar_blue\": true,\n      \"color_scheme\": \"Packages/Wombat Theme/Wombat.tmTheme\",\n  \n  Here are the defaults set by Wombat theme (notice use_simple_full_screen is enabled):\n  \n      \"color_scheme\": \"Packages/Wombat Theme/Wombat.tmTheme\",\n      \"draw_shadows\": false,\n      \"wombat_color_expanded_folder\": true,\n      \"wombat_dirty_bottom_bar\": true,\n      \"wombat_sidebar_tree_small\": true,\n      \"wombat_solid_current_tab\": true,\n      \"wombat_tabs_medium\": true,\n      \"auto_complete_commit_on_tab\": true,\n      \"highlight_line\": true,\n      \"overlay_scroll_bars\": \"enabled\",\n      \"show_full_path\": true,\n      \"tab_size\": 2,\n      \"translate_tabs_to_spaces\": true,\n      \"use_simple_full_screen\": true\n  \n\n\nTheme - Spacegray:\n-----------------\n\n  Thanks for installing Spacegray!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  Spacegray comes in different flavors, based on Base16 color schemes. You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Spacegray\n  ---------\n  \n  Default flavor based on Base16 Ocean Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.dark.tmTheme\"\n      }\n  \n  \n  Spacegray Light\n  ---------------\n  \n  Light variation based on Base16 Ocean Light color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Light.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.light.tmTheme\"\n      }\n  \n  \n  Spacegray Eighties\n  ------------------\n  \n  A variation based on Base16 Eighties Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Eighties.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-eighties.dark.tmTheme\"\n      }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n\n\nPredawn:\n-------\n\n  \n  Welcome to...\n  \n   ______   ______     ______     _____     ______     __     __     __   __    \n  /\\  == \\ /\\  == \\   /\\  ___\\   /\\  __-.  /\\  __ \\   /\\ \\  _ \\ \\   /\\ \"-.\\ \\   \n  \\ \\  _-/ \\ \\  __<   \\ \\  __\\   \\ \\ \\/\\ \\ \\ \\  __ \\  \\ \\ \\/ \".\\ \\  \\ \\ \\-.  \\  \n   \\ \\_\\    \\ \\_\\ \\_\\  \\ \\_____\\  \\ \\____-  \\ \\_\\ \\_\\  \\ \\__/\".~\\_\\  \\ \\_\\\\\"\\_\\ \n    \\/_/     \\/_/ /_/   \\/_____/   \\/____/   \\/_/\\/_/   \\/_/   \\/_/   \\/_/ \\/_/ \n                                                                                \n  \n  To activate the theme, add or replace your current theme settings with the code below.\n  \n  {\n    \"theme\": \"predawn.sublime-theme\",\n    \"color_scheme\": \"Packages/Predawn/predawn.tmTheme\"\n  }\n  \n  \n  *** IMPORTANT - MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREDAWN ***\n  \n  \n  ======================================\n  \n  Also, some other settings that I like:\n  \n  =====================================+\n  \n  // Typography\n  \n    \"font_face\": \"Source Code Pro\",\n    \"font_size\": 14,\n    \"font_options\": [\"no_round\"],\n    \"highlight_line\": true,\n    \"caret_extra_width\": 1,\n    \"caret_style\": \"phase\",\n    \"word_wrap\": false,\n  \n  // Whitespace, Matching, Copy & Auto-Complete\n  \n    \"copy_with_empty_selection\": false,\n    \"drag_text\": false,\n    \"match_brackets_content\": false,\n    \"match_selection\": false,\n    \"match_tags\": false,\n    \"translate_tabs_to_spaces\": true,\n    \"trim_trailing_white_space_on_save\": true,\n  \n  // Interface & Behavior\n  \n    \"sidebar_default\": true, // Replace default with xsmall, small, medium, large or xlarge\n    \"close_windows_when_empty\": false,\n    \"draw_minimap_border\": true,\n    \"enable_tab_scrolling\": false,\n    \"overlay_scroll_bars\": \"enabled\",\n    \"open_files_in_new_window\": false,\n    \"preview_on_click\": false,\n    \"scroll_past_end\": true,\n    \"scroll_speed\": 5.0,\n    \"show_full_path\": false,\n\n\nTheme - itg.flat:\n----------------\n\n  ## Installation\n  \n  ### Using Sublime Package Control\n  \n  If you are using sublime package control, you can install directly from the `Package Control: Install Package` menu item.\n  \n  The theme is listed as `Theme - itg.flat` in the packages list.\n  \n  \n  ##### Enabling the theme\n  \n  To enable the theme and adjust theme settings edit your `Preferences.sublime-settings` file:\n  \n      // for a dark theme use one of the following:\n      \"theme\": \"itg.flat.dark.sublime-theme\"\n      \"theme\": \"itg.flat.dark.aqua.sublime-theme\"\n      \"theme\": \"itg.flat.dark.blue.sublime-theme\"\n      \"theme\": \"itg.flat.dark.green.sublime-theme\"\n      \"theme\": \"itg.flat.dark.orange.sublime-theme\"\n      \"theme\": \"itg.flat.dark.yellow.sublime-theme\"\n  \n      // for a light theme use:\n      \"theme\": \"itg.flat.light.sublime-theme\"\n  \n  \n  ##### Enabling the custom Syntax Highlighting\n  \n  Select `itg.dark` or `itg.light` from `Preferences > Color Scheme > Theme - itg.flat`:\n  \n  or add this to your `Preferences.sublime-settings` file:\n  \n      // for a dark theme use:\n      \"color_scheme\": \"Packages/Theme - itg.flat/itg.dark.tmTheme\",\n  \n      // for a light theme use:\n      \"color_scheme\": \"Packages/Theme - itg.flat/itg.light.tmTheme\",\n  \n  \n  ##### Additional Settings:\n  \n      // small tabs\n      \"itg_small_tabs\": true\n      \"itg_xsmall_tabs\": true\n  \n      // Sidebar padding options\n      \"itg_sidebar_tree_xsmall\": true\n      \"itg_sidebar_tree_small\": true\n      \"itg_sidebar_tree_medium\": true\n      \"itg_sidebar_tree_large\": true\n      \"itg_sidebar_tree_xlarge\": true\n  \n  \n  \n  [View the code on github](https://github.com/itsthatguy/theme-itg-flat)\n  \n\n\nTheme - amCoder:\n---------------\n\n  Thanks for installing amCoder!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Example settings\n  ----------------\n  \n  {\n    \"theme\": \"amCoder.sublime-theme\"\n  }\n  \n  Gray version:\n  \n  {\n    \"theme\": \"amCoder Gray.sublime-theme\"\n  }\n  \n  Extra Color-Scheme\n  ------------------\n  \n  You would like this low-profile version of monokai if you think the original monokai is too shiny:\n  \n  {\n    \"color_scheme\": \"Packages/Theme - amCoder/Monokai Low-Profile.tmTheme\"\n  }\n  \n  Gray version:\n  \n  {\n    \"color_scheme\": \"Packages/Theme - amCoder/Monokai Low-Profile Gray.tmTheme\"\n  }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n",
-					"   ",
-					"Please",
-					"Thank you"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": true,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 57.0
-			},
-			"input":
-			{
-				"height": 57.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"replace":
-			{
-				"height": 54.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 250.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1006.0
-	},
-	"windows":
-	[
 		{
 			"auto_complete":
 			{
@@ -344,38 +95,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"contents": "<!doctype html>\n<html lang=\"en\" class=\"no-js\">\n<head>\n	<meta charset=\"UTF-8\">\n	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>\n\n	<link rel=\"stylesheet\" href=\"css/reset.css\"> <!-- CSS reset -->\n	<link rel=\"stylesheet\" href=\"css/style.css\"> <!-- Resource style -->\n	<script src=\"js/modernizr.js\"></script> <!-- Modernizr -->\n  	\n	<title>Smart Fixed Navigation</title>\n</head>\n<body>\n	<header>\n		<div id=\"cd-logo\"><a href=\"#0\"><img src=\"img/cd-logo.svg\" alt=\"Logo\"></a></div>\n		<h1>Smart Fixed Navigation</h1>\n	</header>\n\n	<div id=\"cd-nav\">\n		<a href=\"#0\" class=\"cd-nav-trigger\">Menu<span></span></a>\n\n		<nav id=\"cd-main-nav\">\n			<ul>\n				<li><a href=\"#0\">Homepage</a></li>\n				<li><a href=\"#0\">Services</a></li>\n				<li><a href=\"#0\">Portfolio</a></li>\n				<li><a href=\"#0\">Pricing</a></li>\n				<li><a href=\"#0\">Contact</a></li>\n			</ul>\n		</nav>\n	</div>\n\n	<main>\n		<ul id=\"cd-gallery-items\" class=\"cd-container\">\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n\n			<li>\n				<img src=\"img/thumb.jpg\" alt=\"Preview image\">\n			</li>\n		</ul> <!-- cd-gallery-items -->\n	</main>\n<script src=\"js/jquery-2.1.1.js\"></script>\n<script src=\"js/main.js\"></script> <!-- Resource jQuery -->\n</body>\n</html>",
-					"file": "/C/learning/smart-fixed-navigation/index.html",
-					"file_size": 2024,
-					"file_write_time": 130488367640000000,
-					"settings":
-					{
-						"buffer_size": 2024,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\ncssDOC:\n------\n\n                 ____   ___   ____\n     ___ ___ ___|  _ \\ / _ \\ / ___|\n    / __/ __/ __| | | | | | | |\n   | (__\\__ \\__ \\ |_| | |_| | |___\n    \\___|___/___/____/ \\___/ \\____|\n  \n  \n  Hi there. You apparently have exceptionally good plugin taste.  Thanks for installing cssDOC!\n  \n  ABOUT\n  -----\n  \n  cssDOC allows you to view CSS documentation for CSS elements that you select (or have your cursor located in/near) in your Sublime Text editor. If cssDOC recognizes the text as a CSS element, you get the Mozilla developer network documentation page for it.  If not, cssDOC sends you to a CSS filtered search on the Mozilla developer network site.\n  \n  If you have problems, check the status bar and the console for error messages.\n  \n  USAGE\n  -----\n  \n    1 ) Right Click Menu - select or locate cursor in the CSS element and use 'CSS Doc Search' in the right click menu\n    2 ) Keybinding - select or locate cursor in the CSS element and use the keys: 'Ctrl-Alt-c'\n    3 ) Command Palette - open the command palette (Cmd-Shift-P or Ctrl-Shift-P) and enter 'cssdoc', then select menu item\n  \n  DOCUMENTATION\n  -------------\n  \n    Complete documentation is available on the GitHub repo @ https://github.com/chrissimpkins/cssDOC\n  \n  ISSUES\n  ------\n  \n    Find a bug? Let's fix it. Submit the problem as a new issue on the GitHub repo @ https://github.com/chrissimpkins/cssDOC/issues\n  \n  CONTACT\n  -------\n  \n    Feel free to reach out to me on Twitter @csimpkins for quick questions that don't warrant a full issue report.\n  \n\n\nEmmet Css Snippets:\n------------------\n\n  \n  Emmet CSS Snippets\n  \n  Thank you for installing Emmet CSS Snippets. This package is an alternative for Emmet and a few snippet triggers were changed, please check the cheat sheet at http://p233.github.io/Emmet-Css-Snippets-for-Sublime-Text-2/\n  \n  ## Features\n  \n  * Works with default CSS package, [LESS](https://sublime.wbond.net/packages/LESS), and [Syntax Highlighting for Sass](https://sublime.wbond.net/packages/Syntax%20Highlighting%20for%20Sass)\n  * Two versions: `has-Prefix` or `no-Prefix`\n  * Smart completion rule: propery snippes will no longer popup when you typing propery values\n  * Pseudo class completions\n  * Extra propery value completions\n  \n  ## Prefix\n  \n  If you intend to use snippets with no prefix, add `has-Prefix` into the ignored_packages list of your settings file. The other way round, if you intend to use snippets with prefix, add `no-Prefix` into the ignored_packages list.\n  \n  -------------\n  Enjoy coding!\n",
-					"settings":
-					{
-						"buffer_size": 2588,
-						"line_ending": "Windows",
-						"name": "Package Control Messages",
-						"scratch": true
-					}
-				},
-				{
-					"file": "/C/learning/normalize.css",
-					"settings":
-					{
-						"buffer_size": 7783,
-						"line_ending": "Unix"
-					}
-				}
-			],
 			"build_system": "",
 			"command_palette":
 			{
@@ -473,6 +192,7 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Reddy/Documents/GitHub/devices.css/README.md",
 				"/D/迅雷下载/Win±äÉ«ÁúChameleon Install 2281/Chameleon Install 2281/org.chameleon.Boot.plist",
 				"/C/Users/Reddy/AppData/Local/Temp/Rar$DIa0.100/密钥+序列号.txt",
 				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
@@ -592,6 +312,485 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 57.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 134.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 251.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 933.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"Prism"
+					],
+					[
+						"high",
+						"highlighting"
+					],
+					[
+						"ht",
+						"htmlemmmet	htmlemmet"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"src",
+						"src	Attr"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"margin-",
+						"margin-right"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"font-v",
+						"font-variant:   (property)"
+					],
+					[
+						"text",
+						"text-transform"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"no",
+						"no-repeat  (value)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/learning/smart-fixed-navigation/index.html",
+					"settings":
+					{
+						"buffer_size": 2024,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/partials/sidebar.hbs",
+					"settings":
+					{
+						"buffer_size": 326,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\ncssDOC:\n------\n\n                 ____   ___   ____\n     ___ ___ ___|  _ \\ / _ \\ / ___|\n    / __/ __/ __| | | | | | | |\n   | (__\\__ \\__ \\ |_| | |_| | |___\n    \\___|___/___/____/ \\___/ \\____|\n  \n  \n  Hi there. You apparently have exceptionally good plugin taste.  Thanks for installing cssDOC!\n  \n  ABOUT\n  -----\n  \n  cssDOC allows you to view CSS documentation for CSS elements that you select (or have your cursor located in/near) in your Sublime Text editor. If cssDOC recognizes the text as a CSS element, you get the Mozilla developer network documentation page for it.  If not, cssDOC sends you to a CSS filtered search on the Mozilla developer network site.\n  \n  If you have problems, check the status bar and the console for error messages.\n  \n  USAGE\n  -----\n  \n    1 ) Right Click Menu - select or locate cursor in the CSS element and use 'CSS Doc Search' in the right click menu\n    2 ) Keybinding - select or locate cursor in the CSS element and use the keys: 'Ctrl-Alt-c'\n    3 ) Command Palette - open the command palette (Cmd-Shift-P or Ctrl-Shift-P) and enter 'cssdoc', then select menu item\n  \n  DOCUMENTATION\n  -------------\n  \n    Complete documentation is available on the GitHub repo @ https://github.com/chrissimpkins/cssDOC\n  \n  ISSUES\n  ------\n  \n    Find a bug? Let's fix it. Submit the problem as a new issue on the GitHub repo @ https://github.com/chrissimpkins/cssDOC/issues\n  \n  CONTACT\n  -------\n  \n    Feel free to reach out to me on Twitter @csimpkins for quick questions that don't warrant a full issue report.\n  \n\n\nEmmet Css Snippets:\n------------------\n\n  \n  Emmet CSS Snippets\n  \n  Thank you for installing Emmet CSS Snippets. This package is an alternative for Emmet and a few snippet triggers were changed, please check the cheat sheet at http://p233.github.io/Emmet-Css-Snippets-for-Sublime-Text-2/\n  \n  ## Features\n  \n  * Works with default CSS package, [LESS](https://sublime.wbond.net/packages/LESS), and [Syntax Highlighting for Sass](https://sublime.wbond.net/packages/Syntax%20Highlighting%20for%20Sass)\n  * Two versions: `has-Prefix` or `no-Prefix`\n  * Smart completion rule: propery snippes will no longer popup when you typing propery values\n  * Pseudo class completions\n  * Extra propery value completions\n  \n  ## Prefix\n  \n  If you intend to use snippets with no prefix, add `has-Prefix` into the ignored_packages list of your settings file. The other way round, if you intend to use snippets with prefix, add `no-Prefix` into the ignored_packages list.\n  \n  -------------\n  Enjoy coding!\n\n\nGhostText:\n---------\n\n  GhostText for Sublime Text\n  ==========================\n  \n  We put a lot of effort to bring you GhostText, an updated experience to write in the browser with Sublime Text.\n  \n  Don't forget to install the updated Chrome extension:\n  https://chrome.google.com/webstore/detail/ghosttext/godiecgffnchndlihlpaajjcplehddca\n  \n  Usage\n  -----\n  \n  In Chrome, when you're in a page with a plain-text field (<textarea>), click the GhostText button in the upper-right corner to open up Sublime Text. Everything you type in the editor will be instantly updated in the browser (and vice versa).\n  \n  To close the link, either close the tab in Sublime Text or click on the GhostText button again.\n  \n  For more specific instructions, read this: https://github.com/Cacodaimon/GhostText-for-SublimeText/blob/master/README.md\n",
+					"settings":
+					{
+						"buffer_size": 3426,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/learning/normalize.css",
+					"settings":
+					{
+						"buffer_size": 7783,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/post.hbs",
+					"settings":
+					{
+						"buffer_size": 4374,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/learning/index.html",
+					"settings":
+					{
+						"buffer_size": 337,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 505,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/partials/comments.hbs",
+					"settings":
+					{
+						"buffer_size": 864,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/partials/google-authorship.hbs",
+					"settings":
+					{
+						"buffer_size": 64,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/index.hbs",
+					"settings":
+					{
+						"buffer_size": 2365,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/ghost-0.4.2/content/themes/Peeves/index.hbs",
+					"settings":
+					{
+						"buffer_size": 2365,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/ghost-0.4.2/content/themes/Peeves/default.hbs",
+					"settings":
+					{
+						"buffer_size": 3715,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/ghost-0.4.2/content/themes/Peeves/assets/css/outport.css",
+					"settings":
+					{
+						"buffer_size": 52381,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/default.hbs",
+					"settings":
+					{
+						"buffer_size": 4283,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 346.0,
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"clipboard",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"open",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"mi",
+						"Minify Javascript"
+					],
+					[
+						"a",
+						"Autoprefix CSS"
+					],
+					[
+						"aut",
+						"Autoprefix CSS"
+					],
+					[
+						"min",
+						"Minify Javascript"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"git",
+						"Set Syntax: Git Commit Message"
+					],
+					[
+						"Snippet: ",
+						"Snippet: bs3-alert"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 223.0,
+				"history":
+				[
+					"S=s209:U=189cca4:E=14e7874f2dd:C=14720c3c658:P=1cd:A=en-devtoken:V=2:H=5a4720f84beeb3e5ec16ecb69dd4081d",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/张惠妹.-.[偏执面].专辑.(FLAC).cue",
+				"/C/ghost-0.4.2/content/themes/Peeves/assets/css/screen.css",
+				"/C/ghost-0.4.2/content/themes/Peeves/assets/css/outport.css",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/wget.sublime-snippet",
+				"/C/Program Files (x86)/Android/android-studio/build.txt",
+				"/C/Users/Reddy/Documents/GitHub/devices.css/README.md",
+				"/D/迅雷下载/Win±äÉ«ÁúChameleon Install 2281/Chameleon Install 2281/org.chameleon.Boot.plist",
+				"/C/Users/Reddy/AppData/Local/Temp/Rar$DIa0.100/密钥+序列号.txt",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Reddy/AppData/Roaming/npm/node_modules/shadowsocks/config.json",
+				"/D/HTML/aFarkas-html5shiv-3.7.2-4-g690b910/aFarkas-html5shiv-690b910/readme.md",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/infinitescroll.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/jquery.fitvids.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/jquery.fluidbox.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/jquery.magnific-popup.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/imagesloaded.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/backstretch.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/highlight.pack.js",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+				"/C/Users/Reddy/Documents/GitHub/-HTML--CSS-and-JavaScript-resources/HTML, CSS and JavaScript resources.md",
+				"/C/Users/Reddy/Documents/GitHub/Hello-World/.gitattributes",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/meta.sublime-snippet",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/htmlmeta.sublime-snippet",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/ie8.sublime-snippet",
+				"/C/learning/JSFundamentals-sf/Lesson04/Lesson04/script.js",
+				"/C/learning/style.css",
+				"/C/git/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master/lightsabers.min.css",
+				"/C/learning/JSFundamentals-sf/Lesson06/Lesson06/script.js",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/ghost-0.4.2/index.js",
+				"/C/ghost-0.4.2/config.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/css/screen-real.css",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/main.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/nanobar.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/prism.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/readingTime.min.js",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/installnodejs.sublime-snippet",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/assets/scripts/main.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/assets/css/screen.css",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/README.md",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/partials/sidebar.hbs",
+				"/C/NodeBB/install/databases.js",
+				"/C/ghost-0.4.2/content/themes/Peeves/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Pixelpusher/default.hbs",
+				"/C/ghost-0.4.2/content/themes/casper/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Pixelpusher/assets/js/prism.js",
+				"/C/Users/Reddy/Documents/GitHub/Pixelpusher/assets/css/prism.css",
+				"/D/迅雷下载/download (1)",
+				"/C/Peeves-2.0.5/README.md",
+				"/C/learning/index.html",
+				"/C/index/emmet.css",
+				"/C/index/emmet.html",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/htmlemmet.sublime-snippet",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+				"/C/index/doc.html",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/C/NodeBB/README.md",
+				"/C/Program Files/CPUID/CPU-Z/cpuz_readme.txt",
+				"/D/迅雷下载/TeleportUltra_1.68_PortableSoft/TeleportUltraPortable/TeleportUltraPortable.ini",
+				"/C/Users/Reddy/Documents/GitHub/android-open-project/English Version/README.md",
+				"/C/index/style.css",
+				"/C/index/JSFundamentals-sf/Lesson01/Lesson01/index.html",
+				"/C/index/index.html",
+				"/C/index/JSFundamentals-sf/Lesson03/Lesson03/script.js",
+				"/C/Users/Reddy/Documents/Rainmeter/Skins/ikonko2/Weather/Weather-C.ini",
+				"/D/index/index.html",
+				"/D/index/style.css",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Reddy/Downloads/exPrimer13's Hardrive Recovery/exPrimer13's Hardrive Recovery/Key.txt",
+				"/C/Users/Reddy/Downloads/exPrimer13's Hardrive Recovery/exPrimer13's Hardrive Recovery/READ ME.txt",
+				"/E/FF/InstagramDownloader/bergdorfs.txt",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 57.0
+			},
+			"find_in_files":
+			{
+				"height": 163.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"3d4f4",
+					"3d4f42",
+					"important",
+					"25383b",
+					"a:hover",
+					"import",
+					"font-family",
+					"post",
+					"article",
+					"!",
+					"29",
+					"abs_med",
+					"sidebar_",
+					"line_padd",
+					"to",
+					"alignemnt",
+					"emmet",
+					"Emmet",
+					"emmet",
+					"Emmet",
+					"and",
+					"and ",
+					"read",
+					"key",
+					"Package Control Messages\n========================\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  P read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n   key\n  ==========================\n   HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n\n\nWombat Theme:\n------------\n\n  Please restart Sublime Text!\n  \n  But before that, append following to your User Settings (for blue theme):\n  \n      \"theme\": \"Wombat.sublime-theme\",\n      \"wombat_color_blue\": true,\n      \"wombat_dirty_bottom_bar_blue\": true,\n      \"color_scheme\": \"Packages/Wombat Theme/Wombat.tmTheme\",\n  \n  Here are the defaults set by Wombat theme (notice use_simple_full_screen is enabled):\n  \n      \"color_scheme\": \"Packages/Wombat Theme/Wombat.tmTheme\",\n      \"draw_shadows\": false,\n      \"wombat_color_expanded_folder\": true,\n      \"wombat_dirty_bottom_bar\": true,\n      \"wombat_sidebar_tree_small\": true,\n      \"wombat_solid_current_tab\": true,\n      \"wombat_tabs_medium\": true,\n      \"auto_complete_commit_on_tab\": true,\n      \"highlight_line\": true,\n      \"overlay_scroll_bars\": \"enabled\",\n      \"show_full_path\": true,\n      \"tab_size\": 2,\n      \"translate_tabs_to_spaces\": true,\n      \"use_simple_full_screen\": true\n  \n\n\nTheme - Spacegray:\n-----------------\n\n  Thanks for installing Spacegray!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  Spacegray comes in different flavors, based on Base16 color schemes. You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Spacegray\n  ---------\n  \n  Default flavor based on Base16 Ocean Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.dark.tmTheme\"\n      }\n  \n  \n  Spacegray Light\n  ---------------\n  \n  Light variation based on Base16 Ocean Light color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Light.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.light.tmTheme\"\n      }\n  \n  \n  Spacegray Eighties\n  ------------------\n  \n  A variation based on Base16 Eighties Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Eighties.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-eighties.dark.tmTheme\"\n      }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n\n\nPredawn:\n-------\n\n  \n  Welcome to...\n  \n   ______   ______     ______     _____     ______     __     __     __   __    \n  /\\  == \\ /\\  == \\   /\\  ___\\   /\\  __-.  /\\  __ \\   /\\ \\  _ \\ \\   /\\ \"-.\\ \\   \n  \\ \\  _-/ \\ \\  __<   \\ \\  __\\   \\ \\ \\/\\ \\ \\ \\  __ \\  \\ \\ \\/ \".\\ \\  \\ \\ \\-.  \\  \n   \\ \\_\\    \\ \\_\\ \\_\\  \\ \\_____\\  \\ \\____-  \\ \\_\\ \\_\\  \\ \\__/\".~\\_\\  \\ \\_\\\\\"\\_\\ \n    \\/_/     \\/_/ /_/   \\/_____/   \\/____/   \\/_/\\/_/   \\/_/   \\/_/   \\/_/ \\/_/ \n                                                                                \n  \n  To activate the theme, add or replace your current theme settings with the code below.\n  \n  {\n    \"theme\": \"predawn.sublime-theme\",\n    \"color_scheme\": \"Packages/Predawn/predawn.tmTheme\"\n  }\n  \n  \n  *** IMPORTANT - MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREDAWN ***\n  \n  \n  ======================================\n  \n  Also, some other settings that I like:\n  \n  =====================================+\n  \n  // Typography\n  \n    \"font_face\": \"Source Code Pro\",\n    \"font_size\": 14,\n    \"font_options\": [\"no_round\"],\n    \"highlight_line\": true,\n    \"caret_extra_width\": 1,\n    \"caret_style\": \"phase\",\n    \"word_wrap\": false,\n  \n  // Whitespace, Matching, Copy & Auto-Complete\n  \n    \"copy_with_empty_selection\": false,\n    \"drag_text\": false,\n    \"match_brackets_content\": false,\n    \"match_selection\": false,\n    \"match_tags\": false,\n    \"translate_tabs_to_spaces\": true,\n    \"trim_trailing_white_space_on_save\": true,\n  \n  // Interface & Behavior\n  \n    \"sidebar_default\": true, // Replace default with xsmall, small, medium, large or xlarge\n    \"close_windows_when_empty\": false,\n    \"draw_minimap_border\": true,\n    \"enable_tab_scrolling\": false,\n    \"overlay_scroll_bars\": \"enabled\",\n    \"open_files_in_new_window\": false,\n    \"preview_on_click\": false,\n    \"scroll_past_end\": true,\n    \"scroll_speed\": 5.0,\n    \"show_full_path\": false,\n\n\nTheme - itg.flat:\n----------------\n\n  ## Installation\n  \n  ### Using Sublime Package Control\n  \n  If you are using sublime package control, you can install directly from the `Package Control: Install Package` menu item.\n  \n  The theme is listed as `Theme - itg.flat` in the packages list.\n  \n  \n  ##### Enabling the theme\n  \n  To enable the theme and adjust theme settings edit your `Preferences.sublime-settings` file:\n  \n      // for a dark theme use one of the following:\n      \"theme\": \"itg.flat.dark.sublime-theme\"\n      \"theme\": \"itg.flat.dark.aqua.sublime-theme\"\n      \"theme\": \"itg.flat.dark.blue.sublime-theme\"\n      \"theme\": \"itg.flat.dark.green.sublime-theme\"\n      \"theme\": \"itg.flat.dark.orange.sublime-theme\"\n      \"theme\": \"itg.flat.dark.yellow.sublime-theme\"\n  \n      // for a light theme use:\n      \"theme\": \"itg.flat.light.sublime-theme\"\n  \n  \n  ##### Enabling the custom Syntax Highlighting\n  \n  Select `itg.dark` or `itg.light` from `Preferences > Color Scheme > Theme - itg.flat`:\n  \n  or add this to your `Preferences.sublime-settings` file:\n  \n      // for a dark theme use:\n      \"color_scheme\": \"Packages/Theme - itg.flat/itg.dark.tmTheme\",\n  \n      // for a light theme use:\n      \"color_scheme\": \"Packages/Theme - itg.flat/itg.light.tmTheme\",\n  \n  \n  ##### Additional Settings:\n  \n      // small tabs\n      \"itg_small_tabs\": true\n      \"itg_xsmall_tabs\": true\n  \n      // Sidebar padding options\n      \"itg_sidebar_tree_xsmall\": true\n      \"itg_sidebar_tree_small\": true\n      \"itg_sidebar_tree_medium\": true\n      \"itg_sidebar_tree_large\": true\n      \"itg_sidebar_tree_xlarge\": true\n  \n  \n  \n  [View the code on github](https://github.com/itsthatguy/theme-itg-flat)\n  \n\n\nTheme - amCoder:\n---------------\n\n  Thanks for installing amCoder!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Example settings\n  ----------------\n  \n  {\n    \"theme\": \"amCoder.sublime-theme\"\n  }\n  \n  Gray version:\n  \n  {\n    \"theme\": \"amCoder Gray.sublime-theme\"\n  }\n  \n  Extra Color-Scheme\n  ------------------\n  \n  You would like this low-profile version of monokai if you think the original monokai is too shiny:\n  \n  {\n    \"color_scheme\": \"Packages/Theme - amCoder/Monokai Low-Profile.tmTheme\"\n  }\n  \n  Gray version:\n  \n  {\n    \"color_scheme\": \"Packages/Theme - amCoder/Monokai Low-Profile Gray.tmTheme\"\n  }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n",
+					"   ",
+					"Please",
+					"Thank you"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
 			"folders":
 			[
 				{
@@ -641,12 +840,24 @@
 				{
 					"follow_symlinks": true,
 					"path": "C:\\HTMLTipsTricks-SF"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Users\\Reddy\\Documents\\GitHub\\peeves-install-configuration"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\ghost-0.4.2\\content\\themes\\The-Shell"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\ghost-0.4.2\\content\\themes\\Peeves"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 7,
 					"sheets":
 					[
 						{
@@ -662,8 +873,8 @@
 								"selection":
 								[
 									[
-										1047,
-										1047
+										1318,
+										1318
 									]
 								],
 								"settings":
@@ -671,38 +882,18 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -711,10 +902,30 @@
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close"
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close"
 									],
 									"codeintel": true,
 									"codeintel_config":
@@ -825,18 +1036,199 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 300.0,
+								"translation.y": 80.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
+							"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/partials/sidebar.hbs",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2588,
+								"buffer_size": 326,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										326,
+										326
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3426,
 								"regions":
 								{
 								},
@@ -1006,14 +1398,14 @@
 									"word_wrap": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 200.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
+							"buffer": 3,
 							"file": "/C/learning/normalize.css",
 							"semi_transient": false,
 							"settings":
@@ -1034,38 +1426,6 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -1074,10 +1434,42 @@
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
-										"bh_angle_close"
+										"bh_angle_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
 									],
 									"codeintel": true,
 									"codeintel_config":
@@ -1189,10 +1581,1732 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
+								"translation.y": 300.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/post.hbs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4374,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4257,
+										4257
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2315.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/learning/index.html",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 337,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										75,
+										75
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 505,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										480,
+										480
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/partials/comments.hbs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 864,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										213,
+										213
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/partials/google-authorship.hbs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 64,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										59,
+										59
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/index.hbs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2365,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										280,
+										280
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/C/ghost-0.4.2/content/themes/Peeves/index.hbs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2365,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										631,
+										631
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 543.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/C/ghost-0.4.2/content/themes/Peeves/default.hbs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3715,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1208,
+										1208
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/C/ghost-0.4.2/content/themes/Peeves/assets/css/outport.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 52381,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										38834,
+										38834
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/CSS/CSS.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 16535.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/default.hbs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4283,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4265,
+										4265
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1453.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
 							"type": "text"
 						}
 					]
@@ -1237,7 +3351,7 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,2,3,-32000,-32000,-1,-1,852,268,126,1217",
+			"position": "0,2,3,-1,-1,-1,-1,957,85,231,1034",
 			"project": "",
 			"replace":
 			{
@@ -1254,11 +3368,11 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{

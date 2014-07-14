@@ -1,3 +1,54 @@
 {
-	"time": 1405151226
+	"licensed": true,
+	"packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Clipboard Manager",
+		"Color Highlighter",
+		"Color Scheme - Creamy",
+		"Color Scheme - Frontend Delight",
+		"Color Scheme - Sleeplessmind",
+		"ColorPicker",
+		"CSS Comments",
+		"CSS Completions",
+		"CSS Snippets",
+		"CSS Unminifier",
+		"cssDOC",
+		"CSSFontFamily",
+		"Dayle Rees Color Schemes",
+		"Devastate",
+		"DocBlockr",
+		"Emmet",
+		"Evernote",
+		"FileDiffs",
+		"Flatron",
+		"Frontend Light Color Scheme",
+		"Ghost Snippets",
+		"HTML5 Doctor CSS Reset snippet",
+		"INI",
+		"JsFormat",
+		"Minifier",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"Theme - amCoder",
+		"Theme - Farzher",
+		"Theme - Glacier",
+		"Theme - itg.flat",
+		"Theme - Numix",
+		"Theme - Spacegray",
+		"Themr",
+		"Tomorrow Color Schemes",
+		"Wombat Theme"
+	],
+	"startup_sec": 0.411098,
+	"syntax":
+	{
+		"JSON": 3
+	},
+	"time": 1405347827
 }
