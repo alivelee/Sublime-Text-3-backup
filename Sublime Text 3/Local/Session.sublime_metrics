@@ -26,29 +26,21 @@
 		"Evernote",
 		"FileDiffs",
 		"Flatron",
-		"Frontend Light Color Scheme",
 		"Ghost Snippets",
+		"GhostText",
 		"HTML5 Doctor CSS Reset snippet",
 		"INI",
 		"JsFormat",
 		"Minifier",
 		"Package Control",
 		"Predawn",
-		"SideBarEnhancements",
-		"Theme - amCoder",
-		"Theme - Farzher",
-		"Theme - Glacier",
-		"Theme - itg.flat",
-		"Theme - Numix",
-		"Theme - Spacegray",
-		"Themr",
-		"Tomorrow Color Schemes",
-		"Wombat Theme"
+		"SideBarEnhancements"
 	],
-	"startup_sec": 0.411098,
+	"startup_sec": 0.5934456,
 	"syntax":
 	{
-		"JSON": 3
+		"JSON": 8,
+		"Plain text": 1
 	},
 	"time": 1405347827
 }
