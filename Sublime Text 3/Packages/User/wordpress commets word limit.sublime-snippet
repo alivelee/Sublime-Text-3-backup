@@ -1,0 +1,16 @@
+<snippet>
+	<content>
+	function Bing_minimal_comment_length( $commentdata ){
+		$minlength = 20;//
+		preg_match_all( '/./u', trim( $commentdata['comment_content'] ), $maxlength );
+		$maxlength = count( $maxlength[0] );
+		if($maxlength  minlength) wp_die('Commnets need at least'.$minlength.'Words')
+		return $commentdata;
+	}
+add_filter( 'preprocess_comment', 'Bing_minimal_comment_length', 8 );
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>wordpress comment limit</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

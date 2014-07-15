@@ -2,6 +2,7 @@
 	"auto_complete_selector": "source, text",
 	"bold_folder_labels": true,
 	"caret_style": "phase",
+	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"fade_fold_buttons": false,
 	"font_face": "Bitstream Vera Sans Mono",
 	"font_size": 11,
@@ -15,6 +16,5 @@
 	"line_padding_top": 1,
 	"sidebar_medium": true,
 	"tabs_medium": true,
-	"theme": "predawn.sublime-theme",
-	"color_scheme": "Packages/Predawn/predawn.tmTheme"
+	"theme": "predawn.sublime-theme"
 }

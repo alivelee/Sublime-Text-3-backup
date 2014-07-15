@@ -1,0 +1,1246 @@
+{
+	"folder_history":
+	[
+		"/C/ghost-0.4.2/content/themes/Peeves",
+		"/C/ghost-0.4.2/content/themes/The-Shell",
+		"/C/Users/Reddy/Documents/GitHub/peeves-install-configuration",
+		"/C/HTMLTipsTricks-SF",
+		"/C/ghost-0.4.2/content/themes",
+		"/C/Users/Reddy/Documents/GitHub",
+		"/C/Peeves-2.0.5",
+		"/C/Users/Reddy/Downloads/BootstrapForWebDesigner_SF/BootstrapForWebDesigner_SF",
+		"/C/Users/Reddy/Downloads/bootstrap-3.2.0/bootstrap-3.2.0",
+		"/C/HTML-KickStart-master",
+		"/C/PHPFundamentals-sf",
+		"/C/HTMLKickstart-SF",
+		"/C/git/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master",
+		"/C/learning",
+		"/C/index"
+	],
+	"last_version": 3059,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 667.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"Prism"
+					],
+					[
+						"high",
+						"highlighting"
+					],
+					[
+						"ht",
+						"htmlemmmet	htmlemmet"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"src",
+						"src	Attr"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"margin-",
+						"margin-right"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"font-v",
+						"font-variant:   (property)"
+					],
+					[
+						"text",
+						"text-transform"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"no",
+						"no-repeat  (value)"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 305.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"clipboard",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"open",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"mi",
+						"Minify Javascript"
+					],
+					[
+						"a",
+						"Autoprefix CSS"
+					],
+					[
+						"aut",
+						"Autoprefix CSS"
+					],
+					[
+						"min",
+						"Minify Javascript"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"git",
+						"Set Syntax: Git Commit Message"
+					],
+					[
+						"Snippet: ",
+						"Snippet: bs3-alert"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 504.0
+			},
+			"console":
+			{
+				"height": 223.0,
+				"history":
+				[
+					"S=s209:U=189cca4:E=14e7874f2dd:C=14720c3c658:P=1cd:A=en-devtoken:V=2:H=5a4720f84beeb3e5ec16ecb69dd4081d",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Reddy/Documents/GitHub/devices.css/README.md",
+				"/D/迅雷下载/Win±äÉ«ÁúChameleon Install 2281/Chameleon Install 2281/org.chameleon.Boot.plist",
+				"/C/Users/Reddy/AppData/Local/Temp/Rar$DIa0.100/密钥+序列号.txt",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Reddy/AppData/Roaming/npm/node_modules/shadowsocks/config.json",
+				"/D/HTML/aFarkas-html5shiv-3.7.2-4-g690b910/aFarkas-html5shiv-690b910/readme.md",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/infinitescroll.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/jquery.fitvids.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/jquery.fluidbox.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/jquery.magnific-popup.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/imagesloaded.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/backstretch.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/highlight.pack.js",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+				"/C/Users/Reddy/Documents/GitHub/-HTML--CSS-and-JavaScript-resources/HTML, CSS and JavaScript resources.md",
+				"/C/Users/Reddy/Documents/GitHub/Hello-World/.gitattributes",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/meta.sublime-snippet",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/htmlmeta.sublime-snippet",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/ie8.sublime-snippet",
+				"/C/learning/JSFundamentals-sf/Lesson04/Lesson04/script.js",
+				"/C/learning/style.css",
+				"/C/git/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master/lightsabers.min.css",
+				"/C/learning/JSFundamentals-sf/Lesson06/Lesson06/script.js",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/ghost-0.4.2/index.js",
+				"/C/ghost-0.4.2/config.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/css/screen-real.css",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/main.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/nanobar.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/prism.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/readingTime.min.js",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/installnodejs.sublime-snippet",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/assets/scripts/main.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/assets/css/screen.css",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/README.md",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/partials/sidebar.hbs",
+				"/C/NodeBB/install/databases.js",
+				"/C/ghost-0.4.2/content/themes/Peeves/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Pixelpusher/default.hbs",
+				"/C/ghost-0.4.2/content/themes/casper/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Pixelpusher/assets/js/prism.js",
+				"/C/Users/Reddy/Documents/GitHub/Pixelpusher/assets/css/prism.css",
+				"/D/迅雷下载/download (1)",
+				"/C/Peeves-2.0.5/README.md",
+				"/C/learning/index.html",
+				"/C/index/emmet.css",
+				"/C/index/emmet.html",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/htmlemmet.sublime-snippet",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+				"/C/index/doc.html",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/C/NodeBB/README.md",
+				"/C/Program Files/CPUID/CPU-Z/cpuz_readme.txt",
+				"/D/迅雷下载/TeleportUltra_1.68_PortableSoft/TeleportUltraPortable/TeleportUltraPortable.ini",
+				"/C/Users/Reddy/Documents/GitHub/android-open-project/English Version/README.md",
+				"/C/index/style.css",
+				"/C/index/JSFundamentals-sf/Lesson01/Lesson01/index.html",
+				"/C/index/index.html",
+				"/C/index/JSFundamentals-sf/Lesson03/Lesson03/script.js",
+				"/C/Users/Reddy/Documents/Rainmeter/Skins/ikonko2/Weather/Weather-C.ini",
+				"/D/index/index.html",
+				"/D/index/style.css",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Reddy/Downloads/exPrimer13's Hardrive Recovery/exPrimer13's Hardrive Recovery/Key.txt",
+				"/C/Users/Reddy/Downloads/exPrimer13's Hardrive Recovery/exPrimer13's Hardrive Recovery/READ ME.txt",
+				"/E/FF/InstagramDownloader/bergdorfs.txt",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"!",
+					"29",
+					"abs_med",
+					"sidebar_",
+					"line_padd",
+					"to",
+					"alignemnt",
+					"emmet",
+					"Emmet",
+					"emmet",
+					"Emmet",
+					"and",
+					"and ",
+					"read",
+					"key",
+					"Package Control Messages\n========================\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  P read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n   key\n  ==========================\n   HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n\n\nWombat Theme:\n------------\n\n  Please restart Sublime Text!\n  \n  But before that, append following to your User Settings (for blue theme):\n  \n      \"theme\": \"Wombat.sublime-theme\",\n      \"wombat_color_blue\": true,\n      \"wombat_dirty_bottom_bar_blue\": true,\n      \"color_scheme\": \"Packages/Wombat Theme/Wombat.tmTheme\",\n  \n  Here are the defaults set by Wombat theme (notice use_simple_full_screen is enabled):\n  \n      \"color_scheme\": \"Packages/Wombat Theme/Wombat.tmTheme\",\n      \"draw_shadows\": false,\n      \"wombat_color_expanded_folder\": true,\n      \"wombat_dirty_bottom_bar\": true,\n      \"wombat_sidebar_tree_small\": true,\n      \"wombat_solid_current_tab\": true,\n      \"wombat_tabs_medium\": true,\n      \"auto_complete_commit_on_tab\": true,\n      \"highlight_line\": true,\n      \"overlay_scroll_bars\": \"enabled\",\n      \"show_full_path\": true,\n      \"tab_size\": 2,\n      \"translate_tabs_to_spaces\": true,\n      \"use_simple_full_screen\": true\n  \n\n\nTheme - Spacegray:\n-----------------\n\n  Thanks for installing Spacegray!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  Spacegray comes in different flavors, based on Base16 color schemes. You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Spacegray\n  ---------\n  \n  Default flavor based on Base16 Ocean Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.dark.tmTheme\"\n      }\n  \n  \n  Spacegray Light\n  ---------------\n  \n  Light variation based on Base16 Ocean Light color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Light.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.light.tmTheme\"\n      }\n  \n  \n  Spacegray Eighties\n  ------------------\n  \n  A variation based on Base16 Eighties Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Eighties.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-eighties.dark.tmTheme\"\n      }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n\n\nPredawn:\n-------\n\n  \n  Welcome to...\n  \n   ______   ______     ______     _____     ______     __     __     __   __    \n  /\\  == \\ /\\  == \\   /\\  ___\\   /\\  __-.  /\\  __ \\   /\\ \\  _ \\ \\   /\\ \"-.\\ \\   \n  \\ \\  _-/ \\ \\  __<   \\ \\  __\\   \\ \\ \\/\\ \\ \\ \\  __ \\  \\ \\ \\/ \".\\ \\  \\ \\ \\-.  \\  \n   \\ \\_\\    \\ \\_\\ \\_\\  \\ \\_____\\  \\ \\____-  \\ \\_\\ \\_\\  \\ \\__/\".~\\_\\  \\ \\_\\\\\"\\_\\ \n    \\/_/     \\/_/ /_/   \\/_____/   \\/____/   \\/_/\\/_/   \\/_/   \\/_/   \\/_/ \\/_/ \n                                                                                \n  \n  To activate the theme, add or replace your current theme settings with the code below.\n  \n  {\n    \"theme\": \"predawn.sublime-theme\",\n    \"color_scheme\": \"Packages/Predawn/predawn.tmTheme\"\n  }\n  \n  \n  *** IMPORTANT - MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREDAWN ***\n  \n  \n  ======================================\n  \n  Also, some other settings that I like:\n  \n  =====================================+\n  \n  // Typography\n  \n    \"font_face\": \"Source Code Pro\",\n    \"font_size\": 14,\n    \"font_options\": [\"no_round\"],\n    \"highlight_line\": true,\n    \"caret_extra_width\": 1,\n    \"caret_style\": \"phase\",\n    \"word_wrap\": false,\n  \n  // Whitespace, Matching, Copy & Auto-Complete\n  \n    \"copy_with_empty_selection\": false,\n    \"drag_text\": false,\n    \"match_brackets_content\": false,\n    \"match_selection\": false,\n    \"match_tags\": false,\n    \"translate_tabs_to_spaces\": true,\n    \"trim_trailing_white_space_on_save\": true,\n  \n  // Interface & Behavior\n  \n    \"sidebar_default\": true, // Replace default with xsmall, small, medium, large or xlarge\n    \"close_windows_when_empty\": false,\n    \"draw_minimap_border\": true,\n    \"enable_tab_scrolling\": false,\n    \"overlay_scroll_bars\": \"enabled\",\n    \"open_files_in_new_window\": false,\n    \"preview_on_click\": false,\n    \"scroll_past_end\": true,\n    \"scroll_speed\": 5.0,\n    \"show_full_path\": false,\n\n\nTheme - itg.flat:\n----------------\n\n  ## Installation\n  \n  ### Using Sublime Package Control\n  \n  If you are using sublime package control, you can install directly from the `Package Control: Install Package` menu item.\n  \n  The theme is listed as `Theme - itg.flat` in the packages list.\n  \n  \n  ##### Enabling the theme\n  \n  To enable the theme and adjust theme settings edit your `Preferences.sublime-settings` file:\n  \n      // for a dark theme use one of the following:\n      \"theme\": \"itg.flat.dark.sublime-theme\"\n      \"theme\": \"itg.flat.dark.aqua.sublime-theme\"\n      \"theme\": \"itg.flat.dark.blue.sublime-theme\"\n      \"theme\": \"itg.flat.dark.green.sublime-theme\"\n      \"theme\": \"itg.flat.dark.orange.sublime-theme\"\n      \"theme\": \"itg.flat.dark.yellow.sublime-theme\"\n  \n      // for a light theme use:\n      \"theme\": \"itg.flat.light.sublime-theme\"\n  \n  \n  ##### Enabling the custom Syntax Highlighting\n  \n  Select `itg.dark` or `itg.light` from `Preferences > Color Scheme > Theme - itg.flat`:\n  \n  or add this to your `Preferences.sublime-settings` file:\n  \n      // for a dark theme use:\n      \"color_scheme\": \"Packages/Theme - itg.flat/itg.dark.tmTheme\",\n  \n      // for a light theme use:\n      \"color_scheme\": \"Packages/Theme - itg.flat/itg.light.tmTheme\",\n  \n  \n  ##### Additional Settings:\n  \n      // small tabs\n      \"itg_small_tabs\": true\n      \"itg_xsmall_tabs\": true\n  \n      // Sidebar padding options\n      \"itg_sidebar_tree_xsmall\": true\n      \"itg_sidebar_tree_small\": true\n      \"itg_sidebar_tree_medium\": true\n      \"itg_sidebar_tree_large\": true\n      \"itg_sidebar_tree_xlarge\": true\n  \n  \n  \n  [View the code on github](https://github.com/itsthatguy/theme-itg-flat)\n  \n\n\nTheme - amCoder:\n---------------\n\n  Thanks for installing amCoder!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Example settings\n  ----------------\n  \n  {\n    \"theme\": \"amCoder.sublime-theme\"\n  }\n  \n  Gray version:\n  \n  {\n    \"theme\": \"amCoder Gray.sublime-theme\"\n  }\n  \n  Extra Color-Scheme\n  ------------------\n  \n  You would like this low-profile version of monokai if you think the original monokai is too shiny:\n  \n  {\n    \"color_scheme\": \"Packages/Theme - amCoder/Monokai Low-Profile.tmTheme\"\n  }\n  \n  Gray version:\n  \n  {\n    \"color_scheme\": \"Packages/Theme - amCoder/Monokai Low-Profile Gray.tmTheme\"\n  }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n",
+					"   ",
+					"Please",
+					"Thank you"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 57.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 134.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 251.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 933.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pr",
+						"Prism"
+					],
+					[
+						"high",
+						"highlighting"
+					],
+					[
+						"ht",
+						"htmlemmmet	htmlemmet"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"src",
+						"src	Attr"
+					],
+					[
+						"mar",
+						"margin-top"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"i",
+						"italic"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"margin-",
+						"margin-right"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"font-v",
+						"font-variant:   (property)"
+					],
+					[
+						"text",
+						"text-transform"
+					],
+					[
+						"tex",
+						"text-align"
+					],
+					[
+						"no",
+						"no-repeat  (value)"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 498,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/wordpress commets word limit.sublime-snippet",
+					"settings":
+					{
+						"buffer_size": 651,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 264.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"UPDATE",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"clipboard",
+						"Clipboard Manager: Show History"
+					],
+					[
+						"INSTALL",
+						"Package Control: Install Package"
+					],
+					[
+						"open",
+						"Evernote: Open Evernote Note"
+					],
+					[
+						"mi",
+						"Minify Javascript"
+					],
+					[
+						"a",
+						"Autoprefix CSS"
+					],
+					[
+						"aut",
+						"Autoprefix CSS"
+					],
+					[
+						"min",
+						"Minify Javascript"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"git",
+						"Set Syntax: Git Commit Message"
+					],
+					[
+						"Snippet: ",
+						"Snippet: bs3-alert"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 496.0
+			},
+			"console":
+			{
+				"height": 223.0,
+				"history":
+				[
+					"S=s209:U=189cca4:E=14e7874f2dd:C=14720c3c658:P=1cd:A=en-devtoken:V=2:H=5a4720f84beeb3e5ec16ecb69dd4081d",
+					"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/迅雷下载/predawn-master/predawn-master/README.md",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Installed Packages/Devastate.sublime-package",
+				"/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/default.hbs",
+				"/C/ghost-0.4.2/content/themes/Peeves/assets/css/outport.css",
+				"/C/ghost-0.4.2/content/themes/Peeves/default.hbs",
+				"/C/ghost-0.4.2/content/themes/Peeves/index.hbs",
+				"/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/index.hbs",
+				"/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/partials/google-authorship.hbs",
+				"/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/partials/comments.hbs",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/post.hbs",
+				"/C/learning/normalize.css",
+				"/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/partials/sidebar.hbs",
+				"/C/learning/smart-fixed-navigation/index.html",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/E/张惠妹.-.[偏执面].专辑.(FLAC).cue",
+				"/C/ghost-0.4.2/content/themes/Peeves/assets/css/screen.css",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/wget.sublime-snippet",
+				"/C/Program Files (x86)/Android/android-studio/build.txt",
+				"/C/Users/Reddy/Documents/GitHub/devices.css/README.md",
+				"/D/迅雷下载/Win±äÉ«ÁúChameleon Install 2281/Chameleon Install 2281/org.chameleon.Boot.plist",
+				"/C/Users/Reddy/AppData/Local/Temp/Rar$DIa0.100/密钥+序列号.txt",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+				"/C/Users/Reddy/AppData/Roaming/npm/node_modules/shadowsocks/config.json",
+				"/D/HTML/aFarkas-html5shiv-3.7.2-4-g690b910/aFarkas-html5shiv-690b910/readme.md",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/infinitescroll.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/jquery.fitvids.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/jquery.fluidbox.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/jquery.magnific-popup.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/imagesloaded.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/backstretch.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/highlight.pack.js",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+				"/C/Users/Reddy/Documents/GitHub/-HTML--CSS-and-JavaScript-resources/HTML, CSS and JavaScript resources.md",
+				"/C/Users/Reddy/Documents/GitHub/Hello-World/.gitattributes",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/meta.sublime-snippet",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/htmlmeta.sublime-snippet",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/ie8.sublime-snippet",
+				"/C/learning/JSFundamentals-sf/Lesson04/Lesson04/script.js",
+				"/C/learning/style.css",
+				"/C/git/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master/Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master/lightsabers.min.css",
+				"/C/learning/JSFundamentals-sf/Lesson06/Lesson06/script.js",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/C/ghost-0.4.2/index.js",
+				"/C/ghost-0.4.2/config.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/css/screen-real.css",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/main.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/nanobar.min.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/prism.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/assets/scripts/readingTime.min.js",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/installnodejs.sublime-snippet",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/assets/scripts/main.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/assets/css/screen.css",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/README.md",
+				"/C/Users/Reddy/Documents/GitHub/Peeves/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/partials/sidebar.hbs",
+				"/C/NodeBB/install/databases.js",
+				"/C/Users/Reddy/Documents/GitHub/Peeves-ghost-theme-configuration/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Pixelpusher/default.hbs",
+				"/C/ghost-0.4.2/content/themes/casper/default.hbs",
+				"/C/Users/Reddy/Documents/GitHub/Pixelpusher/assets/js/prism.js",
+				"/C/Users/Reddy/Documents/GitHub/Pixelpusher/assets/css/prism.css",
+				"/D/迅雷下载/download (1)",
+				"/C/Peeves-2.0.5/README.md",
+				"/C/learning/index.html",
+				"/C/index/emmet.css",
+				"/C/index/emmet.html",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/htmlemmet.sublime-snippet",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+				"/C/index/doc.html",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+				"/C/NodeBB/README.md",
+				"/C/Program Files/CPUID/CPU-Z/cpuz_readme.txt",
+				"/D/迅雷下载/TeleportUltra_1.68_PortableSoft/TeleportUltraPortable/TeleportUltraPortable.ini",
+				"/C/Users/Reddy/Documents/GitHub/android-open-project/English Version/README.md",
+				"/C/index/style.css",
+				"/C/index/JSFundamentals-sf/Lesson01/Lesson01/index.html",
+				"/C/index/index.html",
+				"/C/index/JSFundamentals-sf/Lesson03/Lesson03/script.js",
+				"/C/Users/Reddy/Documents/Rainmeter/Skins/ikonko2/Weather/Weather-C.ini",
+				"/D/index/index.html",
+				"/D/index/style.css",
+				"/C/Users/Reddy/Downloads/exPrimer13's Hardrive Recovery/exPrimer13's Hardrive Recovery/Key.txt",
+				"/C/Users/Reddy/Downloads/exPrimer13's Hardrive Recovery/exPrimer13's Hardrive Recovery/READ ME.txt",
+				"/E/FF/InstagramDownloader/bergdorfs.txt",
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 57.0
+			},
+			"find_in_files":
+			{
+				"height": 163.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"3d4f4",
+					"3d4f42",
+					"important",
+					"25383b",
+					"a:hover",
+					"import",
+					"font-family",
+					"post",
+					"article",
+					"!",
+					"29",
+					"abs_med",
+					"sidebar_",
+					"line_padd",
+					"to",
+					"alignemnt",
+					"emmet",
+					"Emmet",
+					"emmet",
+					"Emmet",
+					"and",
+					"and ",
+					"read",
+					"key",
+					"Package Control Messages\n========================\n\nEmmet:\n-----\n\n  Thank you for installing Emmet -- a toolkit that can greatly improve your workflow. Note that this plugin automatically downloads and installs PyV8 binary (see status bar message). \n  \n  ******************************\n  Please restart editor \n  to finish installation process \n  after PyV8 was downloaded.\n  ******************************\n  \n  Tab key handler\n  ==========================\n  \n  By default, Emmet allows you to expand abbreviations with Tab key in HTML, XML, HAML and CSS/SASS/LESS/Stylus documents. As a side effect, you can’t use some of your ST2 snippets.\n  \n  P read https://github.com/sergeche/emmet-sublime#tab-key-handler about how Tab handler works and how to tweak its behavior to match your needs.\n  \n   key\n  ==========================\n   HTML and XML documents, Emmet overrides Enter key to insert formatted line breaks between opening and closing tags. In some cases it will break character input (for example, in Japanese language).\n  \n  To disable Enter key handler, simply add the following option in your user's Preferences file:\n  \n  \"disable_formatted_linebreak\": true\n  \n  Actions shortcuts\n  ==========================\n  \n  Emmet has a number of actions with keyboard shortcuts that may override ones you're using commonly (for example, Ctrl-E or Ctrl-Down). Please read the project main page to get list of available actions and keyboard shortcuts and how to disable them:\n  https://github.com/sergeche/emmet-sublime\n  \n  \n  Documentation and examples:\n  http://emmet.io\n  \n  ------------------------------\n  Follow me on Twitter: @emmetio\n  ------------------------------\n  \n\n\nWombat Theme:\n------------\n\n  Please restart Sublime Text!\n  \n  But before that, append following to your User Settings (for blue theme):\n  \n      \"theme\": \"Wombat.sublime-theme\",\n      \"wombat_color_blue\": true,\n      \"wombat_dirty_bottom_bar_blue\": true,\n      \"color_scheme\": \"Packages/Wombat Theme/Wombat.tmTheme\",\n  \n  Here are the defaults set by Wombat theme (notice use_simple_full_screen is enabled):\n  \n      \"color_scheme\": \"Packages/Wombat Theme/Wombat.tmTheme\",\n      \"draw_shadows\": false,\n      \"wombat_color_expanded_folder\": true,\n      \"wombat_dirty_bottom_bar\": true,\n      \"wombat_sidebar_tree_small\": true,\n      \"wombat_solid_current_tab\": true,\n      \"wombat_tabs_medium\": true,\n      \"auto_complete_commit_on_tab\": true,\n      \"highlight_line\": true,\n      \"overlay_scroll_bars\": \"enabled\",\n      \"show_full_path\": true,\n      \"tab_size\": 2,\n      \"translate_tabs_to_spaces\": true,\n      \"use_simple_full_screen\": true\n  \n\n\nTheme - Spacegray:\n-----------------\n\n  Thanks for installing Spacegray!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  Spacegray comes in different flavors, based on Base16 color schemes. You can choose whichever flavor you like, but don't forget to change *both* color scheme and UI theme so they match.\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Spacegray\n  ---------\n  \n  Default flavor based on Base16 Ocean Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.dark.tmTheme\"\n      }\n  \n  \n  Spacegray Light\n  ---------------\n  \n  Light variation based on Base16 Ocean Light color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Light.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-ocean.light.tmTheme\"\n      }\n  \n  \n  Spacegray Eighties\n  ------------------\n  \n  A variation based on Base16 Eighties Dark color scheme.\n  \n  *Example settings*\n  \n      {\n        \"theme\": \"Spacegray Eighties.sublime-theme\",\n        \"color_scheme\": \"Packages/Theme - Spacegray/base16-eighties.dark.tmTheme\"\n      }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n\n\nPredawn:\n-------\n\n  \n  Welcome to...\n  \n   ______   ______     ______     _____     ______     __     __     __   __    \n  /\\  == \\ /\\  == \\   /\\  ___\\   /\\  __-.  /\\  __ \\   /\\ \\  _ \\ \\   /\\ \"-.\\ \\   \n  \\ \\  _-/ \\ \\  __<   \\ \\  __\\   \\ \\ \\/\\ \\ \\ \\  __ \\  \\ \\ \\/ \".\\ \\  \\ \\ \\-.  \\  \n   \\ \\_\\    \\ \\_\\ \\_\\  \\ \\_____\\  \\ \\____-  \\ \\_\\ \\_\\  \\ \\__/\".~\\_\\  \\ \\_\\\\\"\\_\\ \n    \\/_/     \\/_/ /_/   \\/_____/   \\/____/   \\/_/\\/_/   \\/_/   \\/_/   \\/_/ \\/_/ \n                                                                                \n  \n  To activate the theme, add or replace your current theme settings with the code below.\n  \n  {\n    \"theme\": \"predawn.sublime-theme\",\n    \"color_scheme\": \"Packages/Predawn/predawn.tmTheme\"\n  }\n  \n  \n  *** IMPORTANT - MAKE SURE TO RESTART SUBLIME AFTER INSTALLING AND ACTIVATING PREDAWN ***\n  \n  \n  ======================================\n  \n  Also, some other settings that I like:\n  \n  =====================================+\n  \n  // Typography\n  \n    \"font_face\": \"Source Code Pro\",\n    \"font_size\": 14,\n    \"font_options\": [\"no_round\"],\n    \"highlight_line\": true,\n    \"caret_extra_width\": 1,\n    \"caret_style\": \"phase\",\n    \"word_wrap\": false,\n  \n  // Whitespace, Matching, Copy & Auto-Complete\n  \n    \"copy_with_empty_selection\": false,\n    \"drag_text\": false,\n    \"match_brackets_content\": false,\n    \"match_selection\": false,\n    \"match_tags\": false,\n    \"translate_tabs_to_spaces\": true,\n    \"trim_trailing_white_space_on_save\": true,\n  \n  // Interface & Behavior\n  \n    \"sidebar_default\": true, // Replace default with xsmall, small, medium, large or xlarge\n    \"close_windows_when_empty\": false,\n    \"draw_minimap_border\": true,\n    \"enable_tab_scrolling\": false,\n    \"overlay_scroll_bars\": \"enabled\",\n    \"open_files_in_new_window\": false,\n    \"preview_on_click\": false,\n    \"scroll_past_end\": true,\n    \"scroll_speed\": 5.0,\n    \"show_full_path\": false,\n\n\nTheme - itg.flat:\n----------------\n\n  ## Installation\n  \n  ### Using Sublime Package Control\n  \n  If you are using sublime package control, you can install directly from the `Package Control: Install Package` menu item.\n  \n  The theme is listed as `Theme - itg.flat` in the packages list.\n  \n  \n  ##### Enabling the theme\n  \n  To enable the theme and adjust theme settings edit your `Preferences.sublime-settings` file:\n  \n      // for a dark theme use one of the following:\n      \"theme\": \"itg.flat.dark.sublime-theme\"\n      \"theme\": \"itg.flat.dark.aqua.sublime-theme\"\n      \"theme\": \"itg.flat.dark.blue.sublime-theme\"\n      \"theme\": \"itg.flat.dark.green.sublime-theme\"\n      \"theme\": \"itg.flat.dark.orange.sublime-theme\"\n      \"theme\": \"itg.flat.dark.yellow.sublime-theme\"\n  \n      // for a light theme use:\n      \"theme\": \"itg.flat.light.sublime-theme\"\n  \n  \n  ##### Enabling the custom Syntax Highlighting\n  \n  Select `itg.dark` or `itg.light` from `Preferences > Color Scheme > Theme - itg.flat`:\n  \n  or add this to your `Preferences.sublime-settings` file:\n  \n      // for a dark theme use:\n      \"color_scheme\": \"Packages/Theme - itg.flat/itg.dark.tmTheme\",\n  \n      // for a light theme use:\n      \"color_scheme\": \"Packages/Theme - itg.flat/itg.light.tmTheme\",\n  \n  \n  ##### Additional Settings:\n  \n      // small tabs\n      \"itg_small_tabs\": true\n      \"itg_xsmall_tabs\": true\n  \n      // Sidebar padding options\n      \"itg_sidebar_tree_xsmall\": true\n      \"itg_sidebar_tree_small\": true\n      \"itg_sidebar_tree_medium\": true\n      \"itg_sidebar_tree_large\": true\n      \"itg_sidebar_tree_xlarge\": true\n  \n  \n  \n  [View the code on github](https://github.com/itsthatguy/theme-itg-flat)\n  \n\n\nTheme - amCoder:\n---------------\n\n  Thanks for installing amCoder!\n  \n  \n  How to activate\n  ===============\n  \n  Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).\n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n  \n  Example settings\n  ----------------\n  \n  {\n    \"theme\": \"amCoder.sublime-theme\"\n  }\n  \n  Gray version:\n  \n  {\n    \"theme\": \"amCoder Gray.sublime-theme\"\n  }\n  \n  Extra Color-Scheme\n  ------------------\n  \n  You would like this low-profile version of monokai if you think the original monokai is too shiny:\n  \n  {\n    \"color_scheme\": \"Packages/Theme - amCoder/Monokai Low-Profile.tmTheme\"\n  }\n  \n  Gray version:\n  \n  {\n    \"color_scheme\": \"Packages/Theme - amCoder/Monokai Low-Profile Gray.tmTheme\"\n  }\n  \n  \n  *Note: Don't forget to restart Sublime Text after activating the theme.*\n  \n",
+					"   ",
+					"Please",
+					"Thank you"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "C:\\index"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\learning"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\git\\Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master\\Pure-CSS3-Star-Wars-Lightsaber-Checkboxes-master"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\HTMLKickstart-SF"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\PHPFundamentals-sf"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\HTML-KickStart-master"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Users\\Reddy\\Downloads\\bootstrap-3.2.0\\bootstrap-3.2.0"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Users\\Reddy\\Downloads\\BootstrapForWebDesigner_SF\\BootstrapForWebDesigner_SF"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Peeves-2.0.5"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Users\\Reddy\\Documents\\GitHub"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\ghost-0.4.2\\content\\themes"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\HTMLTipsTricks-SF"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\Users\\Reddy\\Documents\\GitHub\\peeves-install-configuration"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\ghost-0.4.2\\content\\themes\\The-Shell"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "C:\\ghost-0.4.2\\content\\themes\\Peeves"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 498,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										282,
+										282
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"color_scheme": "Packages/Predawn/predawn.tmTheme",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/JavaScript/JSON.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/wordpress commets word limit.sublime-snippet",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 651,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										639,
+										639
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"bh_regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close"
+									],
+									"codeintel": true,
+									"codeintel_config":
+									{
+										"JavaScript":
+										{
+											"codeintel_max_recursive_dir_depth": 2,
+											"codeintel_scan_files_in_project": false,
+											"javascriptExtraPaths":
+											[
+											]
+										},
+										"PHP":
+										{
+											"codeintel_max_recursive_dir_depth": 5,
+											"codeintel_scan_files_in_project": false,
+											"phpExtraPaths":
+											[
+											]
+										},
+										"Python":
+										{
+											"env":
+											{
+											}
+										}
+									},
+									"codeintel_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_live": true,
+									"codeintel_live_enabled_languages":
+									[
+										"JavaScript",
+										"Mason",
+										"XBL",
+										"XUL",
+										"RHTML",
+										"SCSS",
+										"Python",
+										"HTML",
+										"Ruby",
+										"Python3",
+										"XML",
+										"Sass",
+										"XSLT",
+										"Django",
+										"HTML5",
+										"Perl",
+										"CSS",
+										"Twig",
+										"Less",
+										"Smarty",
+										"Node.js",
+										"Tcl",
+										"TemplateToolkit",
+										"PHP"
+									],
+									"codeintel_max_recursive_dir_depth": 10,
+									"codeintel_scan_exclude_dir":
+									{
+										"JavaScript":
+										[
+											"/build/",
+											"/min/"
+										]
+									},
+									"codeintel_scan_files_in_project": true,
+									"codeintel_selected_catalogs":
+									[
+										"PyWin32",
+										"jQuery",
+										"Rails"
+									],
+									"codeintel_snippets": true,
+									"codeintel_syntax_map":
+									{
+										"Python Django": "Python"
+									},
+									"codeintel_tooltips": "popup",
+									"default_extension": "sublime-snippet",
+									"sublime_auto_complete": true,
+									"syntax": "Packages/XML/XML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 57.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.clipboard_manager":
+			{
+				"height": 134.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "0,0,1,-32000,-32000,-1,-1,916,138,100,1578",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 344.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
