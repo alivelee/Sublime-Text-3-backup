@@ -449,16 +449,18 @@
 					"file": "/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 498,
+						"buffer_size": 481,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/wordpress commets word limit.sublime-snippet",
+					"contents": "Package Control Messages\n========================\n\nCSS Extended Completions:\n------------------------\n\n  CSS Extended Completions\n  \n  Save any file you're working on to add its CSS/LESS/SCSS symbols to the completion index.\n  \n  The following completions are provided:\n  \n  - Extended CSS property/values\n  - CSS class names\n  - CSS IDs\n  - LESS variables/mixins/classes\n  - SCSS variables/mixins/classes\n  \n  Available Options\n  \n  - Options for what scopes trigger completions\n  - Option to auto clear cache on close.\n    Set \"save_cache_to_file\":false (defaults to true)\n  - Auto load css/less/scss from external folders\n    Example: \"load_external_files\":[\"/some/folder\", \"/another/folder\"]\n    (Must be absolute paths)\n  - Option to adjust what pseudo selectors are added to completions\n  - And more, just checkout the Default Settings file\n    Preferences > Package Settings > CSS Extended Completions\n  \n  \n  To delete your cache, open the command palette and type 'CSS delete cache'\n  \nwget -r -p -np -k\n\nTheme - Spacefunk:\n-----------------\n\n  Hi there,\n  \n  Here are some simple instructions to get you going.\n  Copy and paste one of the following bits to your user preferences file.\n  \n  Blue Monday:\n  {\n    \"theme\": \"Spacefunk (Blue Monday).sublime-theme\",\n    \"color_scheme\": \"Packages/Theme - Spacefunk/Future Funk (Blue Monday).tmTheme\"\n  }\n  \n  Grey Tuesday:\n  {\n    \"theme\": \"Spacefunk (Grey Tuesday).sublime-theme\",\n    \"color_scheme\": \"Packages/Theme - Spacefunk/Future Funk (Grey Tuesday).tmTheme\"\n  }\n  \n  Include an additional line for a light sidebar if you fancy:\n  {\n    \"spacefunk_sidebar_light\": true\n  }\n  \n  Restart Sublime Text to make sure all changes are applied.\n  \n  Enjoy!\n  \n\n\nSyntax Highlighting for Sass:\n----------------------------\n\n  \n  Thank you for installing Syntax Highlighting for Sass.\n  \n  Here are some core features that you might want to know, for more details please check https://github.com/P233/Syntax-highlighting-for-Sass/\n  \n  ## Built-in Completion Packages\n  \n      There are 8 built-in completion packages. Pick up the package name which you are not intend to use, then add it/them into the `ignored_packages` list of your settings file. (If you know a better way to do this please please let me know.)\n  \n      * SHS-At-Rule\n      * SHS-Bourbon\n      * SHS-Bourbon-Neat\n      * SHS-Compass-Mixins\n      * SHS-Compass-Variables\n      * SHS-CSS-Properties\n      * SHS-CSS-Property-Values\n      * SHS-Sass-Functions\n  \n  ## Smart Completion Rule\n  \n      1. Typing @-rule, ID, class, placeholder-selector, mixin name, function name, comment, and quoted content will never popup any completions.\n      2. ** When typing property values, property name and other completions will no longer popup.\n      3. Built-in mixin name completions will only popup directly behind `@include` or `+`.\n      4. Built-in variable compltions will only popup when you typing variables.\n  \n      ** The latest version of [Emmet CSS Snippets](https://sublime.wbond.net/packages/Emmet%20Css%20Snippets) now fully supports this feature. I recommend to use it instead of the built-in properties completion package.\n  \n  ## Comment Tag\n  \n      Use `{{` and `}}` to wrap a keyword inside comment, then this keyword (comment tag) will be indexed by the Goto Symbol and Goto Definition features.\n  \n  \n  \n  -------------\n  Enjoy coding!\n  \n////////////55\n\nGhostText:\n---------\n\n  GhostText for Sublime Text v 1.0.3\n  =====================================================\n  \n  - Fixed syntax detection, instead of the full resource path only the file name is need now, please use 'Markdown.tmLanguage' and not 'Packages/MarkdownEditing/Markdown.tmLanguage' anymore.\n  \n  - Fixed bug which lets the WebSocket sever crash when editing large text (An css file with 3k lines for example) with Ghost Text.\n  \n  - Fixed bug on Windows which let the status HTTP sever crash.\n  \n  - Plugin reload behavior has been improved, an exception where thrown on a HTTP server stop.\n\n",
 					"settings":
 					{
-						"buffer_size": 651,
-						"line_ending": "Windows"
+						"buffer_size": 3999,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"scratch": true
 					}
 				}
 			],
@@ -470,6 +472,18 @@
 				[
 					[
 						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"isntall",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
 						"Package Control: Install Package"
 					],
 					[
@@ -486,14 +500,6 @@
 					],
 					[
 						"install p",
-						"Package Control: Install Package"
-					],
-					[
-						"instal",
-						"Package Control: Install Package"
-					],
-					[
-						"isntall",
 						"Package Control: Install Package"
 					],
 					[
@@ -571,6 +577,8 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/wordpress commets word limit.sublime-snippet",
+				"/D/迅雷下载/虫族官方+gsl地图包/sc2地图包/帐号.txt",
 				"/D/迅雷下载/predawn-master/predawn-master/README.md",
 				"/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Installed Packages/Devastate.sublime-package",
 				"/C/Users/Reddy/Documents/GitHub/peeves-install-configuration/default.hbs",
@@ -791,15 +799,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 498,
+								"buffer_size": 481,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										282,
-										282
+										471,
+										471
 									]
 								],
 								"settings":
@@ -807,22 +815,22 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -831,26 +839,26 @@
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close"
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close"
 									],
 									"codeintel": true,
 									"codeintel_config":
@@ -955,7 +963,7 @@
 										"Python Django": "Python"
 									},
 									"codeintel_tooltips": "popup",
-									"color_scheme": "Packages/Predawn/predawn.tmTheme",
+									"color_scheme": "Packages/Sail Color Scheme/Sail.tmTheme",
 									"sublime_auto_complete": true,
 									"syntax": "Packages/JavaScript/JSON.tmLanguage",
 									"translate_tabs_to_spaces": false
@@ -969,19 +977,18 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/C/Users/Reddy/AppData/Roaming/Sublime Text 3/Packages/User/wordpress commets word limit.sublime-snippet",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 651,
+								"buffer_size": 3999,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										639,
-										639
+										3999,
+										3999
 									]
 								],
 								"settings":
@@ -989,22 +996,22 @@
 									"BracketHighlighterBusy": false,
 									"bh_regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -1013,26 +1020,26 @@
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close"
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close"
 									],
 									"codeintel": true,
 									"codeintel_config":
@@ -1137,12 +1144,12 @@
 										"Python Django": "Python"
 									},
 									"codeintel_tooltips": "popup",
-									"default_extension": "sublime-snippet",
 									"sublime_auto_complete": true,
-									"syntax": "Packages/XML/XML.tmLanguage"
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"word_wrap": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1.0,
+								"translation.y": 1706.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -1182,6 +1189,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
 			"output.clipboard_manager":
 			{
 				"height": 134.0
@@ -1190,7 +1201,7 @@
 			{
 				"height": 0.0
 			},
-			"position": "0,0,1,-32000,-32000,-1,-1,916,138,100,1578",
+			"position": "0,2,2,-32000,-32000,-1,-1,728,556,0,1920",
 			"project": "",
 			"replace":
 			{

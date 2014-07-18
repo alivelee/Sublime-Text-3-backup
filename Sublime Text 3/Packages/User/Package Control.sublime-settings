@@ -15,6 +15,7 @@
 		"ColorPicker",
 		"CSS Comments",
 		"CSS Completions",
+		"CSS Extended Completions",
 		"CSS Snippets",
 		"CSS Unminifier",
 		"cssDOC",
@@ -35,12 +36,18 @@
 		"INI",
 		"JavaScript & NodeJS Snippets",
 		"JavaScript Patterns",
+		"jQuery",
 		"jQuery Snippets pack",
 		"JsFormat",
+		"LESS",
 		"Libraries from CDN",
 		"Minifier",
 		"Predawn",
+		"Sail Color Scheme",
+		"SASS Build",
 		"SideBarEnhancements",
-		"SublimeCodeIntel"
+		"SublimeCodeIntel",
+		"Syntax Highlighting for Sass",
+		"Theme - Spacefunk"
 	]
 }
